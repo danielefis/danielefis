@@ -1,5 +1,4 @@
-- 👋 Olá, eu sou @danielefis
-- 👀 Estou interessado em aprender programação...
+- 👋 Olá! Eu sou o Daniel ✨
 - 🌱 Estou aprendendo lógica com Python <3...
 
 <!---
